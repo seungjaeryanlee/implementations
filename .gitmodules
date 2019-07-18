@@ -1,3 +1,6 @@
 [submodule "implementations/nfq"]
 	path = implementations/nfq
 	url = https://github.com/seungjaeryanlee/implementations-nfq
+[submodule "implementations/dqn"]
+	path = implementations/dqn
+	url = https://github.com/seungjaeryanlee/implementations-dqn
