@@ -1,9 +1,9 @@
-[submodule "implementations/nfq"]
-	path = implementations/nfq
-	url = https://github.com/seungjaeryanlee/implementations-nfq
-[submodule "implementations/dqn"]
-	path = implementations/dqn
-	url = https://github.com/seungjaeryanlee/implementations-dqn
-[submodule "implementations/template"]
-	path = implementations/template
+[submodule "template"]
+	path = template
 	url = https://github.com/seungjaeryanlee/implementations-template.git
+[submodule "dqn"]
+	path = dqn
+	url = https://github.com/seungjaeryanlee/implementations-dqn.git
+[submodule "nfq"]
+	path = nfq
+	url = https://github.com/seungjaeryanlee/implementations-nfq.git
