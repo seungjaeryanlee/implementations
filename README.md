@@ -6,8 +6,8 @@ To maximize clarity and reproducibility, every repository uses Travis CI to enfo
 
 ### Finished Implementations ⌛
 
-1. [**[NFQ]** Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method](/papers/nfq.pdf)
-2. [**[DQN]** Human-level control through Deep Reinforcement Learning](/papers/dqn.pdf)
+1. [**[NFQ]** Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method](https://github.com/seungjaeryanlee/implementations-nfq)
+2. [**[DQN]** Human-level control through Deep Reinforcement Learning](https://github.com/seungjaeryanlee/implementations-dqn)
 
 ### Ongoing Implementations ⏳
 
