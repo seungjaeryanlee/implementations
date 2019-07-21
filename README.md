@@ -6,10 +6,7 @@ A centralized repository for all my paper implementations.
 
 ### Done
 
-- Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method
-  - [Paper](/papers/nfq.pdf)
+- [[NFQ] Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method](/papers/nfq.pdf)
+- [[DQN] Human-level control through Deep Reinforcement Learning](/papers/dqn.pdf)
 
 ### Ongoing
-
-- Human-level control through Deep Reinforcement Learning
-  - [Paper](/papers/dqn.pdf)
