@@ -4,3 +4,6 @@
 [submodule "implementations/dqn"]
 	path = implementations/dqn
 	url = https://github.com/seungjaeryanlee/implementations-dqn
+[submodule "implementations/template"]
+	path = implementations/template
+	url = https://github.com/seungjaeryanlee/implementations-template.git
