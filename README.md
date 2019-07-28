@@ -2,16 +2,23 @@
 
 Welcome to my centralized repository for all my paper implementations! Every implementation is in its own repository, but they are included as submodules here for easy access.
 
-To maximize clarity and reproducibility, every repository uses Travis CI to enforce consistent code style (`black`, `flake8`, `flake8-bugbears`, `isort`) and detailed documentation (`flake8-docstring`). Also, to enable customization, every repository uses `configargparse` for easy configuration. For more details, check [**this template repository**](https://github.com/seungjaeryanlee/implementations-template) or any implementation.
+To maximize clarity and reproducibility, we make use of various resources:
+
+- Code Style: `black` `flake8` `flake8-bugbears` `isort` `pre-commit`
+- Documentation: `flake8-docstring` `typing`
+- Customization: `configargparse`
+- Unit Tests: `pytest` `travis-ci`
+- Visualization: `tensorboard` `wandb`
+
+For more details, check [**this template repository**](https://github.com/seungjaeryanlee/implementations-template) or any implementation.
 
 ### Finished Implementations ⌛
 
 1. [**[NFQ]** Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method](https://github.com/seungjaeryanlee/implementations-nfq)
-2. [**[DQN]** Human-level control through Deep Reinforcement Learning](https://github.com/seungjaeryanlee/implementations-dqn)
 
 ### Ongoing Implementations ⏳
 
-There is no paper that I am currently implementing. There will be one soon though!
+- [**[DQN]** Human-level control through Deep Reinforcement Learning](https://github.com/seungjaeryanlee/implementations-dqn)
 
 ### Planned Implementations 🔜
 
